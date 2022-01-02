@@ -4,7 +4,7 @@
         android:label="presensi_app"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyAjHTLy1LvUOyrkvY6hsHf4Vv9jOSWXshU"/>
+               android:value="Your API HERE"/>
   
         <activity
             android:name=".MainActivity"
